@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-const TITLE = ["An engineering student", "Web developement is a big hooby", "Looking for new projects"];
+const TITLE = ["An engineering student", "Web developement is a big hobby", "Looking for new projects"];
 
 class Title extends Component {
 
