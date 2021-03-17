@@ -2,3 +2,29 @@ body{
     text-align: center;
     background-color: whitesmoke;
 }
+
+button{
+    width:150px;
+    height:40px;
+    font-size: 17px;
+    background-color: white;
+    border: none;
+    transition-property: all;
+    transition-timing-function: linear;
+    transition-duration: 250ms;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+#circle-image{
+    margin-top:30px;
+}
+
+#project-desc{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+

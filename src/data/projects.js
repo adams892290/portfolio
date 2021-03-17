@@ -9,11 +9,11 @@ const projects = [
         title: "YelpCamp Campgrounds",
         link: "https://enigmatic-reef-31158.herokuapp.com/",
         image: project1,
-        description: (<div>
+        description: (<div id="project-desc">
             <p>
                 A website made for the purpose of finding new customers for campground owners in an easy and simple way.
             </p>
-            <h5>Technologies used:</h5>
+            <h4>Technologies used:</h4>
             <p>ReactJS, MongoDB, Mongoose, ExpressJS, NodeJS, CSS, HTML</p>
             <p>The whole API creation alongside with the authentication is done manually from scratch.</p>
         </div>)
@@ -23,11 +23,11 @@ const projects = [
         title: "Coaching Institute",
         link: "https://frozen-refuge-21029.herokuapp.com/",
         image: project2,
-        description: (<div>
+        description: (<div id="project-desc">
             <p>
-                This is the blueprint of the website that I created for caoching institute.
+                This is the blueprint of the website that I created for coaching institute.
             </p>
-            <h5>Technologies used:</h5>
+            <h4>Technologies used:</h4>
             <p>MongoDB, Mongoose, ExpressJS,EJS Templates, NodeJS, CSS, HTML</p>
             <p>It has been designed to store data of the students, upload test scores, display their performance graphs and much more!</p>
         </div>)

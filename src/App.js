@@ -20,7 +20,7 @@ class App extends Component {
 
         return (
             <div>
-                <img src={profilePic} alt="profile-picture" style={{ width: 200, height: 200, borderRadius: 100 }} />
+                <img src={profilePic} alt="profile-picture" style={{ width: 280, height: 280, borderRadius: 140 }} id="circle-image" />
                 <h1>Hello!</h1>
                 <p>I'm Aditya Kumar Singh, a student pursuing B.Tech in Computer Science in the second year of college.</p>
                 <p>Check my bio for more details.</p>
@@ -43,6 +43,8 @@ class App extends Component {
                 <hr />
 
                 <Projects />
+                <hr />
+
                 <div>Like what you see? Contact Me!</div>
                 <i> mail: adams892290@gmail.com</i>
                 <SocialProfiles />
