@@ -43,7 +43,7 @@ class App extends Component {
                 <hr />
 
                 <Projects />
-                <div>Like what you see? Contect Me!</div>
+                <div>Like what you see? Contact Me!</div>
                 <i> mail: adams892290@gmail.com</i>
                 <SocialProfiles />
             </div >
