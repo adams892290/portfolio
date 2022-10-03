@@ -2,7 +2,6 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adidev.online",
   "dependencies": {
     "live-server": "^1.2.1",
     "parcel-bundler": "^1.12.4",
